@@ -1,4 +1,4 @@
-# getpidlib - sliver extension
+# getpidlib
 Proof of concept for techniques to find a PID to a process name in Windows.
 
 # Index 
